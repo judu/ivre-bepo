@@ -10,11 +10,11 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
+    name: Julien Durillon
     # url:  http://example.com/
     company:
-        name: Famous Inc.
-        # url:  http://example.com/
+        name: Clever Cloud
+        url:  https://www.clever-cloud.com/
 
 fork_url: https://github.com/shower/shower
 progress: true
